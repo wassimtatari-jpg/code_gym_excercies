@@ -1,0 +1,10 @@
+person1={
+    "name":"wassim",
+    "age":38,
+    "city":"aleppo"
+}
+print(person1)
+person2=dict([("name","yassmine"),("age",13),("city","tangier")])
+print(person2)
+person3=dict(name="farah",age=6,city="tangier")
+print(person3)
